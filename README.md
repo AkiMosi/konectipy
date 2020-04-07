@@ -1,1 +1,2 @@
-konectipy
+The KONECT Toolbox is a toolbox for the Matlab programming language for analysing large networks. You can use the KONECT Toolbox to compute statistics of graphs such as the clustering coefficient, the diameter, the assortativity, sizes of connected components, power laws, etc. You can also use it for generating degree distribution plots, spectral plots, clustering coefficient distribution plots, etc.
+Plots in KONECT are generated from the networks and show diverse visualizations of a network using methods from graph theory, statistics and machine learning. The library was only available in MATLAB.

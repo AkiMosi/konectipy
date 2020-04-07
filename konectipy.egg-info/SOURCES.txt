@@ -1,0 +1,8 @@
+README.md
+setup.py
+konectipy/__init__.py
+konectipy/konectipy.py
+konectipy.egg-info/PKG-INFO
+konectipy.egg-info/SOURCES.txt
+konectipy.egg-info/dependency_links.txt
+konectipy.egg-info/top_level.txt
