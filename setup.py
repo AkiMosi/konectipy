@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="konectipy",
-    version="0.0.3",
+    version="0.0.4",
     author="Akileshvar A",
     author_email="akileshvar008@gmail.com",
     description="A network analyzer",
